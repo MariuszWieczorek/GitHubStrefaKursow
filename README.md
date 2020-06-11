@@ -6,6 +6,6 @@ Nauka Podstaw Git
 * zmiana po stronie lokalnego repo
 * zmiana po stronie zdalnego repo
 
-
+* zmiana dodana w branch fix
  
 
