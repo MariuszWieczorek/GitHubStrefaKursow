@@ -1,3 +1,4 @@
 plik dodany do testu nowej gałęzi
 dopisałem w vscode
 vscode dopisana linia 2
+www dopisana linia 3
