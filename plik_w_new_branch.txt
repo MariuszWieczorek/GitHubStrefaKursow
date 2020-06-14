@@ -1,2 +1,3 @@
 plik dodany do testu nowej gałęzi
-edit na www
+dopisałem w vscode
+
